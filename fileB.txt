@@ -1,6 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 This is file B
 =======
 Added more text
+>>>>>>> completelyNew
+=======
+Added more text
+Trying to see difference on merging
 >>>>>>> completelyNew
