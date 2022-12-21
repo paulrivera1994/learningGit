@@ -1,1 +1,6 @@
 something
+<<<<<<< HEAD
+=======
+From feature branch
+>>>>>>> featureBranch
+Third change
